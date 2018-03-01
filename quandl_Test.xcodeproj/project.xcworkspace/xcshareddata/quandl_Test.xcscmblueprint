@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B81379C69E6538C62FB23D6CF90E5306C35EE87C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D2B3D9384DF4A110ADF48DE8CE7FD5BE8985314C" : 9223372036854775807,
+    "B81379C69E6538C62FB23D6CF90E5306C35EE87C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF3BA6C0-673D-42A3-8762-1402477E84A1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D2B3D9384DF4A110ADF48DE8CE7FD5BE8985314C" : "..",
+    "B81379C69E6538C62FB23D6CF90E5306C35EE87C" : "quandl_Test\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "quandl_Test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "quandl_Test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PROudoxa\/quandl_test",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B81379C69E6538C62FB23D6CF90E5306C35EE87C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PROudoxa\/git-first.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D2B3D9384DF4A110ADF48DE8CE7FD5BE8985314C"
+    }
+  ]
+}
